@@ -1,0 +1,7 @@
+{
+  "appId": "com.nabung20k.app",
+  "appName": "Nabung 20K",
+  "webDir": "www",
+  "backgroundColor": "#070b1f",
+  "android": { "allowMixedContent": false }
+}
